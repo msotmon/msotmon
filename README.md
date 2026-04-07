@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Marta! 
+
+🧬 BSc in Biotechnology @ UPO
+
+💻 MSc in Bioinformatics for Health Sciences @ UPF-UB
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/msotelomontoro)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msotelomontoro@gmail.com)
 
 <!--
 **msotmon/msotmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
