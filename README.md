@@ -4,9 +4,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msotelomontoro@gmail.com)
 
 ### 🎓 About Me
-**MSc in Bioinformatics for Health Sciences** at Universitat Pompeu Fabra and Universitat de Barcelona (UPF-UB) 
-**BSc in Biotechnology** from Universidad Pablo de Olavide (UPO) 
-**Co-author** of a research paper on the **NLRP3 inflammasome** in *Aging Cell*.
+* **MSc in Bioinformatics for Health Sciences** at Universitat Pompeu Fabra and Universitat de Barcelona (UPF-UB) 
+* **BSc in Biotechnology** from Universidad Pablo de Olavide (UPO) 
+* **Co-author** of a research paper on the **NLRP3 inflammasome** in *Aging Cell*.
 * **Undergraduate Thesis (TFG):** Identification of Biomarkers in Osteosarcoma using **Biclustering techniques**.
 
 ### 🛠️ Technical Stack
@@ -20,7 +20,8 @@
 **In Progress 💻:**
 ![Nextflow](https://img.shields.io/badge/Nextflow-007D8A?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
-*Currently deep-diving into NGS pipelines and predictive modeling for clinical datasets*
+
+*Currently deep-diving into NGS pipelines and predictive modeling for clinical datasets
 
 <!--
 **msotmon/msotmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
