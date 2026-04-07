@@ -1,11 +1,26 @@
 ## Hi, I'm Marta! 
 
-🧬 BSc in Biotechnology @ UPO
-
-💻 MSc in Bioinformatics for Health Sciences @ UPF-UB
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/msotelomontoro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msotelomontoro)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msotelomontoro@gmail.com)
+
+### 🎓 About Me
+* [cite_start]**MSc in Bioinformatics for Health Sciences** at Universitat Pompeu Fabra and Universitat de Barcelona (UPF-UB) 
+* [cite_start]**BSc in Biotechnology** from Universidad Pablo de Olavide (UPO) 
+* [cite_start]**Co-author** of a research paper on the **NLRP3 inflammasome** in *Aging Cell*.
+* **Undergraduate Thesis (TFG):** Identification of Biomarkers in Osteosarcoma using **Biclustering techniques**.
+
+### 🛠️ Technical Stack
+
+**Great In:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**In Progress 💻:**
+![Nextflow](https://img.shields.io/badge/Nextflow-007D8A?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+[cite_start]*Currently deep-diving into NGS pipelines and predictive modeling for clinical datasets*
 
 <!--
 **msotmon/msotmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
