@@ -3,13 +3,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msotelomontoro)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msotelomontoro@gmail.com)
 
-### 🎓 About Me
+### About Me
 * **MSc in Bioinformatics for Health Sciences** at Universitat Pompeu Fabra and Universitat de Barcelona (UPF-UB) 
 * **BSc in Biotechnology** from Universidad Pablo de Olavide (UPO) 
 * **Co-author** of a research paper on the **NLRP3 inflammasome** in *Aging Cell*.
 * **Undergraduate Thesis (TFG):** Identification of Biomarkers in Osteosarcoma using **Biclustering techniques**.
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 **Great In:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
