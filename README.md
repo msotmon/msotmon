@@ -8,6 +8,7 @@
 * **BSc in Biotechnology** from Universidad Pablo de Olavide (UPO) 
 * **Co-author** of a research paper on the **NLRP3 inflammasome** in *Aging Cell*.
 * **Undergraduate Thesis (TFG):** Identification of Biomarkers in Osteosarcoma using **Biclustering techniques**.
+* **Currently** pursuing a JAE-CSIC internship in the Centro Andaluz de Biología del Desarrollo (CABD): Prediction of PPI in bacteria
 
 ### Technical Stack
 
