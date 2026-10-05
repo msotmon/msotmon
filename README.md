@@ -22,8 +22,17 @@
 ![Nextflow](https://img.shields.io/badge/Nextflow-007D8A?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-*Currently deep-diving into NGS pipelines and predictive modeling for clinical datasets
+*Currently deep-diving into NGS pipelines and predictive modeling
 
+### Featured Projects & Contributions
+
+Take a look at my pinned repositories below to explore some of my key projects and core contributions. 
+
+Alternatively, you can dive straight into them here:
+
+* **[PharmAllele](https://github.com/elenreyes/PharmAllele.git)**: Bioinformatics web application for a Web Data course focused on pharmacogenomics. The application will allow users to input a gene and a drug, and the system will return known information about how genetic variation affects the response to that drug.
+* **[Pocket_Binding_Site_Prediction](https://github.com/MariaPau03/Pocket_Binding_Site_Prediction)**: A machine learning pipeline for predicting protein-ligand binding sites from PDB structures, inspired by the P2Rank approach. The pipeline extracts geometric, physicochemical and evolutionary features from protein surfaces and prepares them for training a Random Forest classifier.
+  
 <!--
 **msotmon/msotmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
